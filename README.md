@@ -1,5 +1,5 @@
 # RISC-V_lasergame
-A laser reflection puzzle game implemented on DE1-SoC FPGA board with VGA output and PS/2 keyboard control. The inspiration of this game originates from a hacking minigame of the Doomsday heist in GTAOL
+A laser reflection puzzle game implemented on DE1-SoC FPGA board with VGA output and PS/2 keyboard control. The inspiration of this game originates from a hacking minigame of the Doomsday heist in GTAOL. I used this as the final project of my ECE243 labs at University of Toronto
 
 ## Online version using CPUlator
 
