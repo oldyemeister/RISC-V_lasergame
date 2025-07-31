@@ -30,7 +30,15 @@ Arrow keys：
 
 When the game fails/passes, press any arrow key to reset the game.
 
-#FPGA Version
+##FPGA Version
+
+Firmware requirements: De1-Soc board, VGA monitor, PS/2 keyboard
+
+1. Connect the VGA monitor and PS/2 keyboard
+
+2. Download the FPGA_Version folder and set Laser_Puzzle_FPGA.c as the top-level module in your monitor program
+
+3. Compile and run!
 
 
 
