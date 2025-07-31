@@ -1,5 +1,7 @@
 # RISC-V_lasergame
-A laser reflection puzzle game implemented on DE1-SoC FPGA board with VGA output and PS/2 keyboard control. The inspiration of this game originates from a hacking minigame of the Doomsday heist in GTAOL. I used this as the final project of my ECE243 labs at University of Toronto
+A laser reflection puzzle game implemented on DE1-SoC FPGA board with VGA output and PS/2 keyboard control. The player should reflect the cyan laser towards all the 🔵blue nodes while avoiding the 🔴red nodes to pass the game. The inspiration of this game originates from a hacking minigame of the Doomsday heist in GTAOL. I used this as the final project of my ECE243 labs at University of Toronto
+
+<img width="642" height="484" alt="image" src="https://github.com/user-attachments/assets/5348976b-278f-4ae6-858a-347a0b57e3a0" />
 
 ## Online version using CPUlator
 
@@ -13,10 +15,11 @@ How to play:
 
 4. When compilation is over, press the continue button in the top row
 
-5. Scroll down in the devices section and find the column "PS/2 keyboard or mouse", click on the "Type here" box
+5. Scroll down in devices section and find the column "PS/2 keyboard or mouse", click on the "Type here" box
+
    <img width="868" height="310" alt="image" src="https://github.com/user-attachments/assets/33b21b5c-2351-45b4-8567-7aeafecb1584" />
 
-6. Scroll up to find "VGA pixel buffer" and start playing!
+7. Scroll up to find "VGA pixel buffer" and start playing!
 
 Arrow keys：
 
