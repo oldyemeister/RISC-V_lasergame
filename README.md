@@ -30,7 +30,7 @@ Arrow keys：
 
 When the game fails/passes, press any arrow key to reset the game.
 
-##FPGA Version
+## FPGA Version
 
 Firmware requirements: De1-Soc board, VGA monitor, PS/2 keyboard
 
